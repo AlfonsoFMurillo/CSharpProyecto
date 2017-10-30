@@ -1,0 +1,14 @@
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.csprojResolveAssemblyReference.cache
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\bin\Debug\AppGameCenter.exe.config
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\bin\Debug\AppGameCenter.exe
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\bin\Debug\AppGameCenter.pdb
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.exe
+C:\Users\Mañana\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.pdb
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\bin\Debug\AppGameCenter.exe.config
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\bin\Debug\AppGameCenter.exe
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\bin\Debug\AppGameCenter.pdb
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.csprojResolveAssemblyReference.cache
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.exe
+D:\One Drive\OneDrive\VS2K17\source\repos\AppGameCenter\AppGameCenter\obj\Debug\AppGameCenter.pdb
